@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @RickyCaesar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Halo, saya @RickyCaesar
+- 👀 Saya tertarik pada pengembangan web dan teknologi terbaru
+- 🌱 Saat ini saya sedang belajar dan mengembangkan kemampuan di bidang pemrograman
+- 💞️ Saya terbuka untuk kolaborasi dalam proyek-proyek menarik
+- 📫 Hubungi saya melalui email atau media sosial
+- 😄 Pronomina: Dia/Beliau
+- ⚡ Fakta unik: Saya senang mempelajari hal baru setiap hari
+
+**Lifeskill:**
+- Laravel
+- PHP
+- CSS
+- Javascript
+- HTML5
+- MySQL
+- PostgreSQL
 
 <!---
-RickyCaesar/RickyCaesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+RickyCaesar/RickyCaesar adalah repository ✨ spesial ✨ karena `README.md` (file ini) akan muncul di profil GitHub Anda.
+Anda dapat mengklik tautan Pratinjau untuk melihat perubahan Anda.
+-->
