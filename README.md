@@ -7,15 +7,18 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning something new every day
 
-![RickyCaesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyCaesar&show_icons=true&theme=radical)
+<div align="center">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=RickyCaesar&show_icons=true&theme=radical"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyCaesar&layout=compact&theme=radical"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickyCaesar&layout=compact&theme=radical)
+<div align="center">
+  <img width="800em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RickyCaesar&theme=github-compact)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=RickyCaesar&style=flat-square)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RickyCaesar&style=flat-square"/>
+</div>
 
 ## 🖥️ Tech Stack
 
@@ -34,4 +37,25 @@
 <!---
 RickyCaesar/RickyCaesar adalah repository ✨ spesial ✨ karena `README.md` (file ini) akan muncul di profil GitHub Anda.
 Anda dapat mengklik tautan Pratinjau untuk melihat perubahan Anda.
+-->
+
+<!-- 
+## 🚀 Featured Projects [DRAFT]
+
+[![Project 1](https://img.shields.io/badge/Project_1-Description-blue)](https://github.com/RickyCaesar/project1)
+[![Project 2](https://img.shields.io/badge/Project_2-Description-green)](https://github.com/RickyCaesar/project2)
+
+## 📱 Let's Connect [DRAFT]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+## ✍️ Blog & Portfolio [DRAFT]
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet)](https://yourportfolio.com)
+[![Blog](https://img.shields.io/badge/Blog-Posts-orange)](https://yourblog.com)
+
+## ☕ Support Me [DRAFT]
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
 -->
