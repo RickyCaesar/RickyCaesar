@@ -1,13 +1,15 @@
-- 👋 Halo, saya @RickyCaesar
-- 👀 Saya tertarik pada pengembangan web dan teknologi terbaru
-- 🌱 Saat ini saya sedang belajar dan mengembangkan kemampuan di bidang pemrograman
-- 💞️ Saya terbuka untuk kolaborasi dalam proyek-proyek menarik
-- 📫 Hubungi saya melalui email atau media sosial
-- 😄 Pronomina: Dia/Beliau
-- ⚡ Fakta unik: Saya senang mempelajari hal baru setiap hari
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RickyCaesar.visitor-badge" />
+
+- 👋 Hi, I'm @RickyCaesar
+- 👀 I'm interested in web development and emerging technologies
+- 🌱 I'm currently learning and developing my programming skills
+- 💞️ I'm open to collaborating on interesting projects
+- 📫 Reach me through email or social media
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love learning something new every day
 
 **Lifeskill:**
-- Laravel
+![Laravel](https://img.shields.io/badge/Laravel-orange?style=for-the-badge&logo=laravel)
 - PHP
 - CSS
 - Javascript
