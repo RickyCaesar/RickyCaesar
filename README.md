@@ -8,8 +8,11 @@
 - ⚡ Fun fact: I love learning something new every day
 
 <div align="center">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=RickyCaesar&show_icons=true&theme=radical"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyCaesar&layout=compact&theme=radical"/>
+  <img height="180em" width="400em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RickyCaesar&show_icons=true&theme=radical"/>
+       
+  <img height="180em" width="400em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RickyCaesar&layout=compact&theme=radical"/>
 </div>
 
 <div align="center">
