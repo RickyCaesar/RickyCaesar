@@ -10,10 +10,7 @@
 
 <div align="center">
   <img height="180" width="400"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RickyCaesar&show_icons=true&theme=radical"/>
-       
-  <img height="180" width="400"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RickyCaesar&layout=compact&theme=radical"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=RickyCaesar&show_icons=true&locale=en&layout=compact&theme=radical"/>
 </div>
 
 <div align="center">
@@ -47,13 +44,11 @@
 ## 📱 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RickyCaesar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RickyCaesar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RickyCaesar)
 
 ## ✍️ Blog & Portfolio
 
-[![GitHub Pages](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge)](https://rickycaesar.github.io)
+[![GitHub Pages](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge)](https://dub.sh/ricky_own_page)
 
 ---
 
-*Last updated: 2026*
+_Last updated: 2026_
