@@ -1,5 +1,6 @@
 # 🤖 RickyCaesar
-- 👋 Hi, I'm @RickyCaesar
+
+- 👋 Hi, I'm **@RickyCaesar**
 - 👀 I'm interested in web development and emerging technologies
 - 🌱 I'm currently learning and developing my programming skills
 - 💞️ I'm open to collaborating on interesting projects
@@ -8,19 +9,23 @@
 - ⚡ Fun fact: I love learning something new every day
 
 <div align="center">
-  <img height="180em" width="400em"
+  <img height="180" width="400"
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RickyCaesar&show_icons=true&theme=radical"/>
        
-  <img height="180em" width="400em"
+  <img height="180" width="400"
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RickyCaesar&layout=compact&theme=radical"/>
 </div>
 
 <div align="center">
-  <img width="800em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickyCaesar&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RickyCaesar&style=flat-square"/>
+  <img width="800" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RickyCaesar&style=flat-square&color=blueviolet"/>
 </div>
 
 ## 🖥️ Tech Stack
@@ -35,30 +40,20 @@
 
 ---
 
+## 🚀 Featured Projects
 
+[![RickyCaesar](https://img.shields.io/badge/RickyCaesar-Profile_README-2ea44f?style=for-the-badge&logo=github)](https://github.com/RickyCaesar/RickyCaesar)
 
-<!---
-RickyCaesar/RickyCaesar adalah repository ✨ spesial ✨ karena `README.md` (file ini) akan muncul di profil GitHub Anda.
-Anda dapat mengklik tautan Pratinjau untuk melihat perubahan Anda.
--->
+## 📱 Let's Connect
 
-<!-- 
-## 🚀 Featured Projects [DRAFT]
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RickyCaesar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RickyCaesar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RickyCaesar)
 
-[![Project 1](https://img.shields.io/badge/Project_1-Description-blue)](https://github.com/RickyCaesar/project1)
-[![Project 2](https://img.shields.io/badge/Project_2-Description-green)](https://github.com/RickyCaesar/project2)
+## ✍️ Blog & Portfolio
 
-## 📱 Let's Connect [DRAFT]
+[![GitHub Pages](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge)](https://rickycaesar.github.io)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+---
 
-## ✍️ Blog & Portfolio [DRAFT]
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet)](https://yourportfolio.com)
-[![Blog](https://img.shields.io/badge/Blog-Posts-orange)](https://yourblog.com)
-
-## ☕ Support Me [DRAFT]
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
--->
+*Last updated: 2026*
